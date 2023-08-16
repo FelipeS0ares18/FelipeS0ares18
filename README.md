@@ -22,7 +22,8 @@
 
 ### Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0ares18&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0ares18&show_icons=true&theme=transparent)
+
 
 ### Social:
 

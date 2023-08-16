@@ -22,6 +22,5 @@ Olá, tudo bem? Me chamo Felipe Soares e tenho 20 anos, sou acadêmico de Análi
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-soares-de-miranda-b65131272/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![snake gif](https://github.com/FelipeS0ares18/FelipeS0ares18/blob/output/github-contribution-grid-snake.svg)
 
 <img aling = "right" width = "200px" height = "200px" aling-itens = "right"  alt="Cartoon Felipe " src= "https://cdn.discordapp.com/attachments/996534137550803105/1141261921950109717/download20230803034626.png"/>

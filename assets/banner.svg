@@ -1,17 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Felipe Soares — Supply Chain e tecnologia</title>
-  <desc id="desc">Banner tipográfico em fundo escuro com grade discreta, áreas de atuação e destaque para o projeto SIPM.</desc>
+  <desc id="desc">Banner tipográfico escuro com grade discreta, brilho suave, áreas de atuação e destaque para o SIPM.</desc>
   <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101722"/>
+      <stop offset="1" stop-color="#192a32"/>
+    </linearGradient>
+    <radialGradient id="light" cx="78%" cy="15%" r="65%">
+      <stop offset="0" stop-color="#367d83" stop-opacity=".32"/>
+      <stop offset=".55" stop-color="#2b626b" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#2b626b" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#69bcb0" stop-opacity=".75"/>
+      <stop offset=".35" stop-color="#5d9298" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#5d9298" stop-opacity=".08"/>
+    </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#dce8e9" stroke-opacity=".055" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="1200" height="360" fill="#111923"/>
+  <rect width="1200" height="360" fill="url(#background)"/>
+  <rect width="1200" height="360" fill="url(#light)"/>
   <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect x="57" y="65" width="14" height="228" fill="#69bcb0" opacity=".09"/>
   <rect x="62" y="70" width="4" height="218" fill="#69bcb0"/>
   <text x="92" y="102" fill="#82a8bd" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4">SUPPLY CHAIN  /  DATA  /  AUTOMATION  /  AI</text>
   <text x="88" y="190" fill="#f2f4f2" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="0.5">FELIPE SOARES</text>
   <text x="92" y="236" fill="#bccbd0" font-family="Arial,Helvetica,sans-serif" font-size="26">Dados, automação e IA aplicada à operação.</text>
-  <path d="M92 285H1120" stroke="#41535d" stroke-width="1"/>
-  <text x="92" y="316" fill="#86a09f" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">SIPM  /  PLANEJAMENTO DE MATERIAIS</text>
+  <path d="M92 285H1120" stroke="url(#rule)" stroke-width="2"/>
+  <text x="92" y="316" fill="#9bb7b4" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">SIPM  /  PLANEJAMENTO DE MATERIAIS</text>
 </svg>

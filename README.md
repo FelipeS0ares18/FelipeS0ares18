@@ -47,11 +47,8 @@ Uma camada conversacional para explorar prioridades, rupturas, atrasos e recomen
 
 ## GitHub em números
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS0ares18&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1220&amp;title_color=49e3bf&amp;text_color=c7d5e0&amp;icon_color=4c9dff" alt="Estatísticas públicas do GitHub de Felipe Soares" height="165" />
-</p>
-
-<p align="center"><sub>As estatísticas são geradas a partir da atividade pública do GitHub.</sub></p>
+> **49 contribuições** nos últimos 12 meses · **6 repositórios** no perfil  
+> Consulta em 28/09/2026. [Ver atividade e números atuais no GitHub →](https://github.com/FelipeS0ares18#contributions)
 
 ## Contato
 

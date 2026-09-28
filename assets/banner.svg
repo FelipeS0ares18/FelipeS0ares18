@@ -1,35 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Felipe Soares — Supply Chain, Data, Automation e AI</title>
-  <desc id="desc">Banner escuro com linhas conectadas que representam planejamento, dados e automação.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#111b2e"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#49e3bf"/>
-      <stop offset="1" stop-color="#4c9dff"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-  <path d="M40 67H100" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <text x="40" y="94" fill="#82a8bd" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4">SUPPLY CHAIN  /  DATA  /  AUTOMATION  /  AI</text>
-  <text x="40" y="193" fill="#f3f8fc" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="800" letter-spacing="1">FELIPE SOARES</text>
-  <text x="43" y="238" fill="#b2c4d2" font-family="Arial,Helvetica,sans-serif" font-size="25">Transformando operações em sistemas inteligentes.</text>
-  <rect x="40" y="282" width="326" height="42" rx="21" fill="#173546" stroke="#3cc6b1" stroke-opacity=".7"/>
-  <text x="65" y="309" fill="#9af3df" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="1">PLANNING × TECHNOLOGY</text>
-  <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".83">
-    <path d="M760 252 848 194 920 229 1005 139 1115 172"/>
-    <path d="M795 104 876 134 961 86 1068 101 1136 57" opacity=".55"/>
-    <path d="M848 194 876 134M920 229 961 86M1005 139 1068 101M1115 172 1136 57" opacity=".4"/>
-  </g>
-  <g fill="#0f2030" stroke="#56dcca" stroke-width="3">
-    <circle cx="760" cy="252" r="8"/><circle cx="848" cy="194" r="10"/><circle cx="920" cy="229" r="8"/><circle cx="1005" cy="139" r="11"/><circle cx="1115" cy="172" r="8"/>
-    <circle cx="795" cy="104" r="7"/><circle cx="876" cy="134" r="8"/><circle cx="961" cy="86" r="7"/><circle cx="1068" cy="101" r="8"/><circle cx="1136" cy="57" r="7"/>
-  </g>
-  <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#75d9c9" stroke-opacity=".18" stroke-width="2"/>
+  <title id="title">Felipe Soares — Supply Chain e tecnologia</title>
+  <desc id="desc">Banner tipográfico em fundo escuro com o nome Felipe Soares, áreas de atuação e destaque para o projeto SIPM.</desc>
+  <rect width="1200" height="360" fill="#111923"/>
+  <rect x="62" y="70" width="4" height="218" fill="#69bcb0"/>
+  <text x="92" y="102" fill="#96aab4" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="2.4">SUPPLY CHAIN  /  MATERIALS PLANNING</text>
+  <text x="88" y="190" fill="#f2f4f2" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="0.5">FELIPE SOARES</text>
+  <text x="92" y="236" fill="#bccbd0" font-family="Arial,Helvetica,sans-serif" font-size="26">Dados, automação e IA aplicada à operação.</text>
+  <path d="M92 285H1120" stroke="#41535d" stroke-width="1"/>
+  <text x="92" y="316" fill="#86a09f" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">SIPM  /  PLANEJAMENTO DE MATERIAIS</text>
 </svg>

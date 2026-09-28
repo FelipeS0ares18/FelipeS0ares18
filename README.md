@@ -1,31 +1,61 @@
-### <h1>Hi there 👋<h1>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Felipe Soares — Supply Chain, Data, Automation e AI" width="100%" />
+</p>
 
-<img aling = "right" float = "right"   position = "absolute" alt="cracha" src= "https://cdn.discordapp.com/attachments/996534137550803105/1141761712387797092/Desktop.png"/>
+<p align="center">
+  <strong>Supply Chain · Materials Planning · Data · Automation · AI</strong><br />
+  Transformo desafios de planejamento em processos claros, análises úteis e ferramentas que ajudam a decidir melhor.
+</p>
 
-### 🛠️ Stacks:
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-soares-de-miranda-b65131272/">LinkedIn</a> ·
+  <a href="https://github.com/FelipeS0ares18">GitHub</a>
+</p>
 
-<div style= "display: inline_block"> </br>
-  <img aling = "center" alt="HTML5 logo" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img aling = "center" alt="CSS3 logo" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img aling = "center" alt="React logo" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img aling = "center" alt="JavaScript logo" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img aling = "center" alt="React logo" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img aling = "center" alt="GitHub logo" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
- <img aling = "center" alt="Git logo" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img aling = "center" alt="Vscode logo" src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+---
 
-</div>
+## Sobre mim
 
+Sou **Felipe Soares**. Atuo na interseção entre **planejamento de materiais, Supply Chain e tecnologia**: conecto a realidade da operação com dados, automação e desenvolvimento de soluções internas.
 
+Gosto de transformar informações dispersas em visibilidade para o time, critérios de decisão e rotinas mais confiáveis. Meu foco é aplicar tecnologia onde ela melhora o trabalho de quem planeja, compra, produz e acompanha materiais.
 
-### 📈 Analytics:
+## Áreas de atuação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0ares18&show_icons=true&theme=transparent)
+- **Supply Chain & Materials Planning** — abastecimento, estoque, compras, PCP, estrutura de materiais (BOM) e políticas de suprimento.
+- **Dados & inteligência operacional** — indicadores, análise de demanda, Power BI, SQL e visualização para apoiar decisões.
+- **Automação & sistemas** — integração de processos, ferramentas internas e redução de tarefas repetitivas.
+- **AI aplicada** — interfaces e copilotos que ajudam a consultar cenários e explicar recomendações com base em dados.
 
+## Projetos em destaque
 
-### Social:
+### SIPM · Sistema Inteligente de Planejamento de Materiais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-soares-de-miranda-b65131272/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f3lipetx/)
+Uma solução de planejamento criada para reunir **materiais, demanda, estoque, compras, recomendações e exceções** em uma visão de trabalho. O objetivo é apoiar prioridades diárias e decisões de abastecimento com rastreabilidade e contexto operacional.
 
+**O que o projeto reúne:** motor de planejamento/MRP, políticas por material, análises, simulações e uma rotina estruturada para o planejador. O repositório do SIPM é privado; esta é uma visão geral do projeto.
 
-<img aling = "right" width = "200px" height = "200px" aling-itens = "right"  alt="Cartoon Felipe " src= "https://cdn.discordapp.com/attachments/996534137550803105/1141261921950109717/download20230803034626.png"/>
+### Copiloto de Planejamento · módulo do SIPM
+
+Uma camada conversacional para explorar prioridades, rupturas, atrasos e recomendações do planejamento. Ela ajuda a explicar cálculos e comparar cenários hipotéticos, mantendo as regras de negócio no motor de planejamento.
+
+## Stack & ferramentas
+
+**Operação e dados:** Materials Planning · MRP · Excel · Power BI · SQL · Python  
+**Desenvolvimento:** TypeScript · React · Node.js · NestJS · PostgreSQL · Prisma  
+**Entrega e automação:** Git · GitHub · Docker · APIs · AI aplicada
+
+## GitHub em números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeS0ares18&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0b1220&amp;title_color=49e3bf&amp;text_color=c7d5e0&amp;icon_color=4c9dff" alt="Estatísticas públicas do GitHub de Felipe Soares" height="165" />
+</p>
+
+<p align="center"><sub>As estatísticas são geradas a partir da atividade pública do GitHub.</sub></p>
+
+## Contato
+
+Quer conversar sobre planejamento de materiais, dados ou tecnologia aplicada à operação?
+
+- [LinkedIn · Felipe Soares](https://www.linkedin.com/in/felipe-soares-de-miranda-b65131272/)
+- [GitHub · @FelipeS0ares18](https://github.com/FelipeS0ares18)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Felipe Soares — Supply Chain, Data, Automation e AI" width="100%" />
+  <img src="./assets/banner-perfil.png" alt="Felipe Soares — Supply Chain, Data, Automation e AI" width="100%" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Gosto de transformar informações dispersas em visibilidade para o time, crité
 
 ## Projetos em destaque
 
-<img src="./assets/sipm-card.svg" alt="SIPM — Sistema Inteligente de Planejamento de Materiais" width="100%" />
+<img src="./assets/banner-sipm.png" alt="SIPM — Sistema Inteligente de Planejamento de Materiais" width="100%" />
 
 ### SIPM · Sistema Inteligente de Planejamento de Materiais
 
